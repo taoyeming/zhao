@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>UIAppFonts</key>
+	<array>
+		<string>MiSans-Regular.ttf</string>
+		<string>MiSans-Heavy.ttf</string>
+		<string>MiSans-Normal.ttf</string>
+		<string>MiSans-ExtraLight.ttf</string>
+		<string>MiSans-Thin.ttf</string>
+		<string>MiSans-Medium.ttf</string>
+		<string>MiSans-Demibold.ttf</string>
+		<string>MiSans-Bold.ttf</string>
+		<string>MiSans-Light.ttf</string>
+		<string>MiSans-Semibold.ttf</string>
+	</array>
+</dict>
+</plist>
